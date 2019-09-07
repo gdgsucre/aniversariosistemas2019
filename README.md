@@ -1,4 +1,4 @@
-# flisol2019
+# Charlas Aniversario Ing. de Sistemas USFX 2019
 
 Diapositivas
 
@@ -7,3 +7,6 @@ Diapositivas
 
 2. Dialogflow
 [Descargar](dialogflow.pdf)
+
+2. Ionic vs NativeScript vs Flutter sale mal ..
+[Descargar](IonicvsNativeScriptvsFlutter.pptx)
