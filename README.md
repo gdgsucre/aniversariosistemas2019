@@ -9,4 +9,4 @@ Diapositivas
 [Descargar](dialogflow.pdf)
 
 2. Ionic vs NativeScript vs Flutter sale mal ..
-[Descargar](IonicvsNativeScriptvsFlutter.pptx)
+[Descargar](ionic-vs-native-script-vs-flutter.pptx)
