@@ -3,4 +3,7 @@
 Diapositivas
 
 1. Lo que tienes que saber de Dart para Backend, Frontend y Movile.
-[Archivo](lo-que-tienes-que-saber-de-dart-para-Backend-frontend-Mobile.pdf)
+[Descargar](lo-que-tienes-que-saber-de-dart-para-Backend-frontend-Mobile.pdf)
+
+2. Dialogflow
+[Descargar](dialogflow.pdf)
