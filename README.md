@@ -10,3 +10,7 @@ Diapositivas
 
 2. Ionic vs NativeScript vs Flutter sale mal ..
 [Descargar](ionic-vs-native-script-vs-flutter.pptx)
+
+4. Angular for Dummies
+[Descargar]
+(angular-for-dummies)
