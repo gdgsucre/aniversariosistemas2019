@@ -12,5 +12,4 @@ Diapositivas
 [Descargar](ionic-vs-native-script-vs-flutter.pptx)
 
 4. Angular for Dummies
-[Descargar]
-(angular-for-dummies.pptx)
+[Descargar](angular-for-dummies.pptx)
