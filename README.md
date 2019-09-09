@@ -19,3 +19,5 @@ Diapositivas
 
 6. Dibujando Software.
 [Descargar](dibujandoSoftware2.pptx)
+
+7. [Lleva tu idea a una Aplicación](https://slides.com/josechirinos-1/because-js-18/fullscreen#/)
