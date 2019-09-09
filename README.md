@@ -13,3 +13,6 @@ Diapositivas
 
 4. Angular for Dummies
 [Descargar](angular-for-dummies.pptx)
+
+5. Baby steps on Kotlin.
+[Descargar](KOTLIN%20BABY%20STEPS!!.pptx)
