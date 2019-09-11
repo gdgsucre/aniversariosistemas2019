@@ -21,3 +21,5 @@ Diapositivas
 [Descargar](dibujandoSoftware2.pptx)
 
 7. [Lleva tu idea a una Aplicación](https://slides.com/josechirinos-1/because-js-18/fullscreen#/)
+
+8. [Introducción a UX Design](https://docs.google.com/presentation/d/e/2PACX-1vR-snq7A_CFeVMJE-KCqwqh8opi12P4waNioIfmpfHriHFFegISmI8id7jW4PEna_1ZYv21OcAWQnz0/pub?start=true&loop=false&delayms=3000&slide=id.g5cd4bd3365_0_0)
